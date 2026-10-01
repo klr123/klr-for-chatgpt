@@ -1,8 +1,0 @@
-name = "hair-fit-doubao-proxy"
-main = "worker.js"
-compatibility_date = "2026-10-01"
-
-# Keep secrets out of this file. Set them with:
-# wrangler secret put ARK_API_KEY
-# wrangler secret put ARK_MODEL_ID
-
